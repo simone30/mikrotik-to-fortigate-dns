@@ -17,7 +17,7 @@ add address=192.168.122.119 name=name2.domain1.com
 
 Compilare il programma con comando `gcc mk2fg-dns.c -o ./mk2fg-dns-converter/mk2fg-dns`
 
-## ESECUZIONE configuratore LINUX
+## Esecuzione configuratore LINUX
 
 Posizionarsi sulla cartella di esecuzione `cd mk2fg-dns-converter`
 
